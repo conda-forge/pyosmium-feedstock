@@ -13,6 +13,7 @@ source:
 
 build:
   number: 2
+
   python:
     entry_points:
       - pyosmium-get-changes = osmium.tools.pyosmium_get_changes:main
