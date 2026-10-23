@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "4.3.1"
+  version: "4.3.2"
 
 package:
   name: pyosmium
@@ -9,10 +9,10 @@ package:
 
 source:
   url: https://pypi.org/packages/source/o/osmium/osmium-${{ version }}.tar.gz
-  sha256: 5cc16af5f0f34d5e67c678433f6ddda6e37f086ab3cf4ac3b15725fd878f75a8
+  sha256: bea7aa809d41659ad29c7b4627ce7e1af4d420d03db45b3a4211cb6192b6926f
 
 build:
-  number: 1
+  number: 0
 
   python:
     entry_points:
