@@ -12,7 +12,7 @@ source:
   sha256: bea7aa809d41659ad29c7b4627ce7e1af4d420d03db45b3a4211cb6192b6926f
 
 build:
-  number: 0
+  number: 1
 
   python:
     entry_points:
