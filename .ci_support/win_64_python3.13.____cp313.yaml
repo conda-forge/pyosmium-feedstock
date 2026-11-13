@@ -11,7 +11,7 @@ cxx_compiler:
 expat:
 - '2'
 lz4_c:
-- '1.10'
+- '1.11'
 pin_run_as_build:
   python:
     min_pin: x.x

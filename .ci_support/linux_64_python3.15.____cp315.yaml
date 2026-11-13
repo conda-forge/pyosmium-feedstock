@@ -1,3 +1,5 @@
+DOCKER_PLATFORM:
+- linux/amd64
 bzip2:
 - '1'
 c_stdlib:
@@ -17,7 +19,7 @@ docker_image:
 expat:
 - '2'
 lz4_c:
-- '1.10'
+- '1.11'
 pin_run_as_build:
   python:
     min_pin: x.x
